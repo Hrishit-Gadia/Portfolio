@@ -1,0 +1,43 @@
+.Images {
+    Width: 250px;
+    Height: 300px;
+    Border-radius: 75%;
+}
+
+#Profile-Pic {
+    margin-top: 25px
+}
+
+Body {
+    Text-Align: Center;
+}
+
+#Introduction {
+    Background: rgb(247, 95, 4);
+    background: linear-gradient(175deg, rgba(247, 95, 4, 1) 0%, rgba(247, 202, 6, 1) 100%);
+}
+
+#Inspiration {
+    background: rgb(247, 202, 6);
+    background: linear-gradient(175deg, rgba(247, 202, 6, 1) 0%, rgba(163, 247, 6, 1) 100%);
+}
+
+h1 {
+    Font-Family: 'Lobster', cursive;
+    Font-Size: 37.5px;
+}
+
+h2 {
+    Font-Family: 'Pacifico', cursive;
+}
+
+h3 {
+    Font-Family: 'Ranchers', cursive;
+    Font-Size: 25px;
+}
+.Sections {
+    Height: 625px;
+}
+p {
+    font-family: 'Syne Mono', monospace;
+}
